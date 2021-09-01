@@ -2,6 +2,6 @@
   "name": "ws-time-pull",
   "version": "VERSION",
   "dependencies": {
-    "ws-time": "^1.0.2"
+    "ws-time": "^1.0.0"
   }
 }
